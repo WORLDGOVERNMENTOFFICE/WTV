@@ -1,4 +1,4 @@
 # WTV
 WORLD TELEVISION INC.
-</b>www.wtv.ltd
-mailto:ceo@wtv.ltd
+www.wtv.ltd
+ceo@wtv.ltd
